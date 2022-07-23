@@ -1,4 +1,3 @@
-import { async } from "@firebase/util"
 import {PRODUCTS_ACTION_TYPES } from "./products.types"
 // import { getCategoriesAndDocuments} from "../../utils/firebase/firebase.utils"
 export const setProducts = (products)=>{
